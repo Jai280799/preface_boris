@@ -1,0 +1,27 @@
+body{
+	background: aquamarine;
+	color: white;
+}
+h3{
+	color: black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img{
+	padding: 20px;
+	background: black;
+	width: 730px;
+	height: 430px;
+}
+
+p{
+	text-align: justify;
+	letter-spacing: 5px;
+}
+
+.bld{
+	font-weight: bold;
+}
